@@ -2,7 +2,7 @@
   "name": "js-style-to-css",
   "displayName": "JS style to CSS",
   "description": "Convert inline style of React to CSS properties",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.85.0"
   },
