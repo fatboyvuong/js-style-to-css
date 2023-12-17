@@ -19,6 +19,9 @@
       }
     ]
   },
+  "repository": {
+    
+  },
   "scripts": {
     "vscode:prepublish": "pnpm run package",
     "compile": "webpack",
