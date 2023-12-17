@@ -2,7 +2,7 @@
   "name": "js-style-to-css",
   "displayName": "JS style to CSS",
   "description": "Convert inline style of React to CSS properties",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -20,8 +20,14 @@
     ]
   },
   "repository": {
-    
+    "type": "git",
+    "url": "git+https://github.com/fatboyvuong/js-style-to-css.git"
   },
+  "author": {
+    "name": "Vuong Nguyen",
+    "email": "fatboyvuong@gmail.com"
+  },
+  "publisher": "VuongNguyen",
   "scripts": {
     "vscode:prepublish": "pnpm run package",
     "compile": "webpack",
